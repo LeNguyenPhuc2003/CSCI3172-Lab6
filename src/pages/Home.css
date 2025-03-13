@@ -48,34 +48,23 @@ p {
 
 .button-group .btn {
   font-size: 1.25rem;
-  /* Increase button text size */
   padding: 10px 20px;
-  /* Increase button padding */
   margin-right: 10px;
   background-color: #333;
-  /* Gray-black background */
   color: #fff;
-  /* White text */
   border: none;
   text-decoration: none;
-  /* Remove underline from links */
   transition: background-color 0.3s ease, box-shadow 0.3s ease;
-  /* Smooth transition effect */
 }
 
 .button-group .btn:hover {
   background-color: #555;
-  /* Slightly lighter gray-black on hover */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  /* Add shadow on hover */
 }
 
 .profile-image {
   width: 450px;
-  /* Increase image size by 1.5 times */
   height: 450px;
-  /* Increase image size by 1.5 times */
   border-radius: 50%;
-  /* Circular image */
   object-fit: cover;
 }

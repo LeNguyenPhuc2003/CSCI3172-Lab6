@@ -1,12 +1,12 @@
-# Lab 6: Creating a User Login and Registration System
+# Lab 6: Setting up and Deploying a React Portfolio
 
 This is an Individual Lab.
 
 * *Date Created*: 10 03 2025
 * *Last Modification Date*: 12 03 2025
-* *Lab URL*: 
-* *Gitlab URL: 
-* *Timberlea URL: 
+* *Lab URL*: https://dal.brightspace.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=246140&grpid=0&isprv=0&bp=0&ou=361473
+* *Github URL: https://github.com/LeNguyenPhuc2003/CSCI3172-Lab6
+* *Netlify URL: https://shiny-frangollo-a8d3d8.netlify.app/projects
 
 ## Authors
 
