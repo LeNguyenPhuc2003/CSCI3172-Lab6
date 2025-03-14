@@ -1,43 +1,43 @@
 .footer {
-  background: #333;
-  padding-top: 20px;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-bottom: 0px;
-  border-radius: 5px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  text-align: center;
-  font-size: 14px;
-  color: #fff; /* Make text white */
-  margin-top: 5rem; /* Add margin-top to match the sections in About page */
+    background: #333;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 0px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+    margin-top: 5rem;
 }
 
 .footer-nav {
-  display: flex;
-  justify-content: center;
-  gap: 30px; /* Increase gap to space out links */
-  margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 10px;
 }
 
 .footer-nav a {
-  text-decoration: none; /* Remove underline */
-  color: #fff; /* Make links white */
+    text-decoration: none;
+    color: #fff;
 }
 
 .footer-nav a:hover {
-  text-decoration: none; /* Ensure underline is removed on hover */
-  color: #ccc; /* Optional: Change color on hover for better visibility */
+    text-decoration: none;
+    color: #ccc;
 }
 
 .footer-divider {
-  border: 0;
-  border-top: 3px solid #dee2e6; /* Increase thickness */
-  margin: 10px auto;
-  width: 80%; /* Set width to 80% */
+    border: 0;
+    border-top: 3px solid #dee2e6;
+    margin: 10px auto;
+    width: 80%;
 }
 
 .footer-text {
-  margin-top: 10px;
-  font-size: medium;
-  color: #fff; /* Make text white */
+    margin-top: 10px;
+    font-size: medium;
+    color: #fff;
 }

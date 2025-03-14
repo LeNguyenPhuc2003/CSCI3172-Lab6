@@ -6,9 +6,9 @@ body {
     padding: 0;
 }
 
- #notFound {
+#notFound {
     min-height: 100vh;
- }
+}
 
 .text-section {
     margin-bottom: 20px;
@@ -37,4 +37,4 @@ h1 {
 .btn:hover {
     background-color: #555;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  }
+}

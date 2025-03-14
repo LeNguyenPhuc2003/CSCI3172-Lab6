@@ -14,7 +14,8 @@ body {
   background-color: #f4f4f4;
 }
 
-header, footer {
+header,
+footer {
   width: 100%;
 }
 
@@ -29,6 +30,7 @@ header {
 nav {
   background-color: #333;
 }
+
 nav ul {
   list-style: none;
   display: flex;
