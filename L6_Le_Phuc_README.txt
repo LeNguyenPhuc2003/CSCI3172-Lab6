@@ -20,8 +20,11 @@ This is an Individual Lab.
 * JavaScript
 * React
 
+# Note: The _redirect file in the public folder is for Netlify. Without it, Netlify will default to thier own 404 page instead of my own.
+
 ## Sources Used
 The project is bootstraped using: React + Vite
 CSS framework used: BootStrap 5: https://getbootstrap.com/docs/5.0/getting-started/introduction/
+The project is hosted on Netlify: https://www.netlify.com/
 Footer Icons: https://fortawesome.com/
 Cat Face image used in Home Page: https://stock.adobe.com/ca/search?k=cat+face

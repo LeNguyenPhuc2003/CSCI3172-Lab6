@@ -46,11 +46,11 @@ nav ul li a {
 }
 
 .custom-toggler {
-  border-color: white !important; /* Makes the button border white */
+  border-color: white !important;
 }
 
 .custom-toggler .navbar-toggler-icon {
-  filter: invert(1); /* Turns the default black icon to white */
+  filter: invert(1);
 }
 
 .navbar-toggler-icon {

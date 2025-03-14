@@ -6,9 +6,7 @@ html {
 
 .home-container {
   background-color: #f0f0f0;
-  /* Light gray background */
   height: calc(100vh - 100px);
-  /* Adjust height to leave room for Header and Footer */
   display: flex;
   align-items: center;
   justify-content: center;
@@ -34,12 +32,10 @@ html {
 
 h1 {
   font-size: 3rem;
-  /* Increase heading size */
 }
 
 p {
   font-size: 1.5rem;
-  /* Increase paragraph size */
 }
 
 .button-group {
