@@ -1,0 +1,68 @@
+[
+    {
+        "title": "AI Companies and Cybercrime Accountability",
+        "type": "Case Study",
+        "duration": "March 2025 - April 2025",
+        "author": "Nguyen Phuc Le, Ishtila Shah, Suchith Sridhar Khajjayam, Carly Mott",
+        "description": [
+            "• Investigated the ethical and legal implications of holding AI companies accountable for cybercrimes committed using their technologies.",
+            "• Analyzed real-world cases and legal frameworks to understand the current stance on AI-related cybercrime accountability.",
+            "• Explored the roles of various stakeholders, including AI developers, users, and governments, in preventing and addressing AI-powered cybercrimes.",
+            "• Proposed recommendations for policy and regulatory changes to enhance accountability and security in AI development and deployment."
+        ],
+        "languages": [
+            "English"
+        ],
+        "technologies": [
+            "Artificial Intelligence",
+            "Cybersecurity",
+            "Legal Frameworks",
+            "Ethical Considerations"
+        ],
+        "link": "#"
+    },
+    {
+        "title": "Scheme Interpreter",
+        "type": "Personal Assignment",
+        "duration": "May 2024 - July 2024",
+        "author": "Nguyen Phuc Le",
+        "description": [
+            "• Designed and implemented a Scheme interpreter in Java, demonstrating proficiency in functional programming and language design.",
+            "• Integrated features like lexical scoping and optimizations like tail-call and short-circuit evaluation while ensuring compliance with Scheme language specifications.",
+            "• Documented the project's architecture and implementation, enhancing clarity and maintainability.",
+            "• The project got an A+ with commendations from the professor."
+        ],
+        "languages": [
+            "Java"
+        ],
+        "technologies": [
+            "Functional Programming",
+            "Recursion",
+            "Pure Functions",
+            "First-Class Functions",
+            "Parallel Programming"
+        ],
+        "link": "#"
+    },
+    {
+        "title": "GAME OF LIFE",
+        "type": "Personal Project",
+        "duration": "May 2023 - July 2023",
+        "author": "Nguyen Phuc Le",
+        "description": [
+            "• Developed a simulation of Conway's Game of Life using Unity and C#, demonstrating proficiency in game development and object-oriented programming.",
+            "• Implemented core game mechanics including cell generation, evolution rules, and grid management.",
+            "• Added features such as adjustable grid size, customizable initial states, and real-time simulation controls.",
+            "• Conducted thorough testing to ensure accuracy and performance, and documented the project for future enhancements."
+        ],
+        "languages": [
+            "C#"
+        ],
+        "technologies": [
+            "Unity",
+            "Object-Oriented Programming",
+            "Game Development"
+        ],
+        "link": "#"
+    }
+]

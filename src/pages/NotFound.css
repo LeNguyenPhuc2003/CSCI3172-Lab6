@@ -8,6 +8,9 @@ body {
 
 #notFound {
     min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .text-section {
@@ -15,18 +18,13 @@ body {
     text-align: center;
 }
 
-h1 {
-    color: #333;
-}
-
 .mt-5 {
     margin-top: 3rem;
 }
 
-.btn {
+.btn-home {
     font-size: 1.25rem;
     padding: 10px 20px;
-    margin-right: 10px;
     background-color: #333;
     color: #fff;
     border: none;
@@ -34,7 +32,23 @@ h1 {
     transition: background-color 0.3s ease, box-shadow 0.3s ease;
 }
 
-.btn:hover {
+.btn-home:hover {
     background-color: #555;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Dark mode styles */
+body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.btn-home.dark-mode {
+    background-color: #ffffff;
+    color: #333;
+}
+
+.btn-home.dark-mode:hover {
+    background-color: #dddddd;
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.2);
 }
