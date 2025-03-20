@@ -21,7 +21,7 @@ function Projects() {
   }, [darkMode]);
 
   useEffect(() => {
-    fetch('http://localhost:9000/.netlify/functions/api/projects')
+    fetch('https://shiny-frangollo-a8d3d8.netlify.app/.netlify/functions/api/projects')
       .then((response) => response.json())
       .then((data) => setProjects(data))
       .catch((error) => console.error('Error fetching projects:', error));
