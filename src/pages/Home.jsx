@@ -21,7 +21,7 @@ function Home() {
   }, [darkMode]);
 
   useEffect(() => {
-    fetch('http://localhost:9000/.netlify/functions/api/.netlify/functions/api/weather')
+    fetch('https://shiny-frangollo-a8d3d8.netlify.app/.netlify/functions/api/weather')
       .then((response) => response.json())
       .then((data) => setWeather(data))
       .catch((error) => console.error('Error fetching weather data:', error));
