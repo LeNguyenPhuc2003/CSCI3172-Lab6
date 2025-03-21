@@ -8,17 +8,11 @@ const app = express();
 const router = express.Router();
 const fs = require("fs");
 
-router.get('/projects', (req, res) => {
-  fs.readFile('\src\\projects.json', 'utf8', (err, data) => {
-      if (err) {
-          console.error('Error reading projects file:', err);
-          res.status(500).json({ error: 'Failed to read projects data' });
-          return;
-      }
-      const projects = JSON.parse(data);
-      res.json(projects);
-    });
-});
+const projects = require("./projects.json");
+
+router.get("/projects", (req, res) => {
+    res.json(projects);
+  });
 
 router.get('/weather', async (req, res) => {
     const city = req.query.city || 'Halifax';
